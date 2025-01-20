@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cataladev/cataladev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/carloselopezjr/carloselopezjr/output/snake.svg" alt="Snake animation" />
 
 ###
 <!---
