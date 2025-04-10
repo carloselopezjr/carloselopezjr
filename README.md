@@ -8,9 +8,6 @@
         <li>👑 Freshman computer science major with a strong passion for software development and game design.</li>
       </ul>
     </td>
-    <td>
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQFCpp6gNgC1VQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728074411188?e=1743033600&v=beta&t=PHE_t2qw7Z3FFaMQ84x2NgoFH0l_jCkADwnY2H3M_s4" height="250" width="350" alt="pic of me" />
-    </td>
    
   </tr>
 </table>
