@@ -6,8 +6,6 @@
       <h2>🐈‍⬛ About Me:</h2>
       <ul>
         <li>👑 Freshman computer science major with a strong passion for software development and game design.</li>
-        <li>🎮 Currently working on my own website to showcase my portfolio, as well as a Terraria mod (the greatest game of all time).</li>
-        <li>⚔️ Winning</li>
       </ul>
     </td>
     <td>
