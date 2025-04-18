@@ -1,11 +1,11 @@
-<H1 align="center"> Yo!🔥I'm Carlos, a student at the University of Central Florida</H1>
+<H1 align="center"> Hi! I'm Carlos, a student at the University of Central Florida</H1>
 
 <table>
   <tr>
      <td>
       <h2>🐈‍⬛ About Me:</h2>
       <ul>
-        <li>👑 Freshman computer science major with a strong passion for software development and game design.</li>
+        <li>👑 Freshman computer science major passionate about software development and game design.</li>
       </ul>
     </td>
    
